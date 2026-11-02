@@ -32,5 +32,5 @@ My personal website: a responsive single-page site in HTML, CSS and JavaScript, 
 
 ## 📜 Certifications
 
-- ✅ SAP Datasphere Certification
-- ⏳ In progress: CompTIA A+, CompTIA Security+, Microsoft SC-900, Microsoft AZ-900
+- ✅ SAP Datasphere Certification, CompTIA A+
+- ⏳ In progress: CompTIA Security+, Microsoft SC-900, Microsoft AZ-900
